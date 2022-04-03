@@ -1,0 +1,1 @@
+Online Java coding test is preferred by recruiters & hiring managers to assess Java programming skills of the candidates before an interview. This Java programming test evaluates candidates’ knowledge of class, Project concepts, Variable, Operators, Loops, Methods
